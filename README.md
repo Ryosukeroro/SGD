@@ -1,6 +1,6 @@
 # SGD
 ```
-g++ -o SGD-ICP_ALGORITHM SGD-ICP_ALGORITHM.cpp
-./SGD-ICP_ALGORITHM
+g++ -o SGD　SGD.cpp
+./SGD
 ```
 SGD-ICPを実装してみました。
