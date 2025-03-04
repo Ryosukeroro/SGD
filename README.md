@@ -1,2 +1,7 @@
 # SGD
+```
+g++ -o SGICP_ALGORISM SGICP_ALGORISM.cpp
+./SGICP_ALGORISM
+
+```
 SGD-ICPを実装してみました。
