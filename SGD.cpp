@@ -38,6 +38,8 @@ std::array<float, 3> motion = {0.0f, 0.0f, 0.0f};
 
 size_t m_batch_size = 22;
 
+// タイマー
+
 std::vector<Point> read_scan_points(const std::string& file_path) {
     std::ifstream file(file_path);
     std::vector<Point> points;
