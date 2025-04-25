@@ -1,6 +1,6 @@
 # SGD
 ```
-g++ -o SGD　SGD.cpp
+g++ -o SGD SGD.cpp
 ./SGD
 ```
 SGD-ICPを実装してみました。
