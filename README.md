@@ -12,4 +12,5 @@ SGD-ICPはランダムに点群からいくつかとり、最適化計算を行�
 詳しい詳細はこちら→https://arxiv.org/pdf/1907.09133
 
 # SGD-ICPの仕組みの説明
+## 1.ミニバッチサイズの決定(Mini-batch size)
 
