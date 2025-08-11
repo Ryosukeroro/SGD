@@ -18,3 +18,4 @@ SGD-ICPはランダムに点群からいくつかとり、最適化計算を行�
 ```cpp
 size_t m_batch_size = 22;
 ```
+## 2. ミニバッチの作成(Mini-batch)
